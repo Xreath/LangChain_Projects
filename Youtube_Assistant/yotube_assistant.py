@@ -1,4 +1,5 @@
-import lc_helper as lch
+import Langchain_Helper.lc_helper as lch
+
 import streamlit as st
 import textwrap
 
